@@ -1,0 +1,26 @@
+# Apex Financial Partners - Q3 Performance & Investment Summary
+
+## Executive Overview
+During the third quarter, Apex Financial delivered record quarterly revenue of $48.2 million, representing a 24.5% year-over-year increase compared to Q3 of the prior fiscal year ($38.7 million). Net profit margins expanded by 320 basis points to reach 18.4%.
+
+## Segment Highlights
+
+### 1. Private Wealth Management
+- Assets under management (AUM) reached $1.85 billion, up 14% year-to-date.
+- Net new advisory inflows totaled $112 million during Q3.
+- Average management fee was maintained at 0.72% annualized.
+
+### 2. Commercial Real Estate Lending
+- Originated $145 million in new senior-secured loans across multifamily and light industrial sectors.
+- Weighted average loan-to-value (LTV) ratio sits at a conservative 58.4%.
+- Delinquency rate over 30 days remains under 0.28%, substantially outperforming peer banking benchmarks.
+
+### 3. Quantitative Alpha Strategy Fund
+- Net Q3 return: +7.8% (against S&P 500 benchmark of +4.2%).
+- Annualized Sharpe Ratio: 1.94.
+- Maximum drawdown experienced during the quarter: -1.6%.
+
+## Capital Allocation & Forward Guidance
+- Board approved an increase in quarterly dividend to $0.45 per common share.
+- Share buyback authorization remains active with $25 million in remaining dry powder through Q4.
+- Full-year revenue target has been revised upward to $185 - $190 million.

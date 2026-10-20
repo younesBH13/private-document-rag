@@ -1,6 +1,9 @@
 from typing import List
 from langchain_core.documents import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+try:
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
+except ImportError:
+    from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 class DocumentChunker:
     """Splits documents into semantic chunks with context overlap."""

@@ -1,0 +1,22 @@
+# ACME Global Technologies - Enterprise Employee Handbook (2025 Edition)
+
+## 1. Remote Work & Security Policy
+- All full-time employees are eligible for the flexible hybrid work model (up to 3 days remote per week).
+- Work equipment provided includes a company-managed MacBook Pro or Dell Precision laptop with BitLocker/FileVault disk encryption enabled.
+- Under no circumstances should company confidential source code, internal roadmap documents, or customer PII be uploaded to public third-party AI models (e.g. public ChatGPT accounts). 
+- All LLM assistance for proprietary data must utilize internal air-gapped instances or approved local RAG toolchains (such as PrivateDoc RAG).
+
+## 2. Paid Time Off (PTO) & Leave Entitlements
+- Standard PTO accrual is 22 days per calendar year for full-time staff, accruing at 1.83 days per completed month.
+- Employees with 3+ years of tenure receive an additional 3 days of tenure leave (25 days total).
+- Sick leave: 10 dedicated sick days per year, separate from PTO. A medical certificate is required for absences exceeding 3 consecutive business days.
+- Parental Leave: Primary caregivers are entitled to 16 weeks of 100% paid parental leave. Secondary caregivers receive 6 weeks of 100% paid leave.
+
+## 3. Expense Reimbursement & Annual Stipends
+- Home Office Setup: A one-time $800 reimbursement is available within the first 60 days of employment for desk equipment, ergonomic seating, or external monitors.
+- Learning & Development: $1,500 annual personal budget for technical conferences, online certifications (AWS, GCP, Coursera), and specialized textbooks.
+- Health & Wellness: $75 monthly wellness stipend covers gym memberships, athletic equipment, or mental wellness apps.
+
+## 4. Code of Conduct & Whistleblower Protection
+- ACME Global operates on a zero-tolerance policy regarding harassment, discrimination, or retaliation.
+- Anonymous reporting hotline: internal extension 4400 or via email to ethics-committee@acme-global-tech.internal.
